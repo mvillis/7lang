@@ -37,7 +37,7 @@ x = x + 1
 
 # run ruby file
 
-chapter1.rb
+Ruby chapter1.rb
 
 # Bonus Problem
 
